@@ -19,7 +19,10 @@ Fun fact: I have a cat which is named Theodore and I love it.
   
 
 ## IDEAL JOB
-![Image](src)
+![Image](https://github.com/minhkhue0901/minhkhue0901.github.io/blob/master/Untitled.png)
+![Image](https://github.com/minhkhue0901/minhkhue0901.github.io/blob/master/Untitled%202.png)
+![Image](https://github.com/minhkhue0901/minhkhue0901.github.io/blob/master/Untitled%203.png)
+![Image](https://github.com/minhkhue0901/minhkhue0901.github.io/blob/master/Untitled%204.png)
 
 [Link](url) and 
 ```
