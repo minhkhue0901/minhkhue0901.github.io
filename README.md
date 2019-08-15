@@ -1,29 +1,27 @@
-## Welcome to GitHub Pages
+# WELCOME TO MY PROFILE
+Let's get to know more about me
 
-You can use the [editor on GitHub](https://github.com/minhkhue0901/minhkhue0901.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INTRODUCTION
+My name is Hai Minh Khue Ta. You can call me Kaylee. My student number is s3785151. "kaylee0901@icloud.com" is my email.
+I am 19 years old. I come from Vietnam so obviously I can speak Vietnamese. I am a freshman of Bachelor of Information Technology.
+I came to Australia about 3 years ago.
+Fun fact: I have a cat which is named Theodore and I love it.
 
-### Markdown
+## INTEREST IN IT
+  ### 1. Why do I choose IT?
+  When I came to Australia, I didn't know what to do when I graduate from Uni. I used to think that I would choose Education instead of IT. At that time, my brother-in-law was working as an IT supporter for a small company. Watching him doing his work, I started to feel interested in being an IT support to help users get the best experience using my IT product. Additionally, I am not a very sociable person, so I find it comfortable to work in IT. Also, because I am a type of person who likes to play game, I am interested in game designing as well.
+  ### 2. Why do I choose RMIT?
+  RMIT is a short form of Royal Melbourne Institute of Technology, that's why it is one of the best university to learn IT. As a student who is interested in IT, why don't I choose IT? Additionally, the campus that I am going to is located in CBD, which is very ideal for me.
+  ### 3. What do I expect to learn?
+  During my course, I would like to learn more about coding, software and how to design a game, or at least a website like what I am doing now.
+  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## IDEAL JOB
+![Image](src)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
