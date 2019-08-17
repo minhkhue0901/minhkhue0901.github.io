@@ -48,4 +48,9 @@ At the moment, I do not have any experience in a similar role, but I will try my
 In order to be in this role, I need to improve my skills. Specifically, I need to learn more about network, windows endpoints and Microsoft domains. I also need to find an internship to gain experience so that I am experienced in other similar role.
 
 ## PERSONAL PROFILE
-  
+1. Myers-Briggs test: Mind: Introvert 53%, Energy: Observant 54%, Nature: Feeling 65%, Tatics: Prospecting 58%, Identity: Turbulent: 64%
+2. Learning Style test: Auditory: 25%, Visual: 40%, Tactile: 35%
+   [Link](http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml)
+3. Big Five Personality test: Extraversion 42%, Agreeableness 67%, Conscienctiousness 84%, Neuroticism 40%, Openess 60%.
+
+These tests tell me what is my personality, and what is my learning type is. I am likely to be an introvert. This may affect my teamwork ability. However, this is a challenge for me to get over myself. With my conscientiousness, I will try my best to do all my work as a team.
